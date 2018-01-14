@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaveInstant  State</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="show_input_to_textview">Show input to textview</string>
+</resources>
